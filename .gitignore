@@ -21,8 +21,6 @@ wheels/
 *.log
 docker-compose.override.yml
 .docker/
-Dockerfile*
-.dockerignore
 
 # uv (Python package manager)
 .uv/
